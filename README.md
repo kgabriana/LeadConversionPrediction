@@ -7,6 +7,7 @@ Overview
 This project explores lead conversion prediction for an EdTech startup using machine learning techniques. The goal is to identify potential customers most likely to convert, allowing the company to allocate marketing resources efficiently.
 
 Key Features
+
 	•	Exploratory Data Analysis (EDA) – Identified key trends and conversion drivers
 	•	Feature Engineering – Created engagement metrics and handled skewed data
 	•	Machine Learning Models – Built and optimized Logistic Regression, Decision Trees, Random Forest, and XGBoost
